@@ -19,7 +19,7 @@ All 63 programs of our paper can be found in `scripts/study_case` and the corres
 
 ## Experiment
 
-📣 ***NOTE: In order to provide an available and functional artifact for our paper, two authors are responsible for refactoring the code and providing an out-of-the-box docker image before the official publication.***
+📣 ***NOTE: In order to provide an available and functional artifact for our paper, two authors are responsible for refactoring the code and providing an out-of-the-box docker image before the official publication. (Work In Progress)***
 
 ### Installation
 
